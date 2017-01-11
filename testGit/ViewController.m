@@ -24,11 +24,7 @@
     [super viewWillAppear:animated];
 }
 
-//modified
-//master
-//master2
-// new 1
-//new 2
+//new3 pre-commit-msg shell
 
 - (void)viewWillLayoutSubviews {
     
