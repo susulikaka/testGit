@@ -16,7 +16,7 @@
 
 - (void)viewDidLoad {
     [super viewDidLoad];
-
+//test nramcj
     //before gco new
 }
 
@@ -24,11 +24,6 @@
     [super viewWillAppear:animated];
 }
 
-//new4 pre-commit-msg shell
-//mew4 ......
-//new3 ......
-- (void)viewWillLayoutSubviews {
-    
-}
+
 
 @end
