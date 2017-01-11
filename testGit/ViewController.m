@@ -25,7 +25,7 @@
 }
 
 //new3 pre-commit-msg shell
-
+//new3 ......
 - (void)viewWillLayoutSubviews {
     
 }
