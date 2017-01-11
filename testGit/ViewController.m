@@ -24,12 +24,7 @@
     [super viewWillAppear:animated];
 }
 
-//modified
-//master
-//master2
-// new 1
-//new 2
-//new 3
+
 
 - (void)viewWillLayoutSubviews {
     
